@@ -4,7 +4,7 @@ import logo from '../../assets/logo.png';
 
 const Navbar = () => {
   return (
-    <div className="navbar w-4/5 mx-auto mt-5">
+    <div className="navbar mt-5">
       <div className="navbar-brand">
         <img src={logo} alt="Company Logo" className="logo" />
       </div>

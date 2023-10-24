@@ -1,8 +1,4 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Koulen&family=Roboto&display=swap');
 
 /*
 ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com
@@ -484,13 +480,13 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
 }
-.font-bold {
-  font-weight: 700;
+.mt-5 {
+  margin-top: 1.25rem;
 }
-.underline {
-  text-decoration-line: underline;
+.w-4\/5 {
+  width: 80%;
 }
