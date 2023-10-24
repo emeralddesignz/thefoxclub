@@ -1,3 +1,4 @@
+
 .gameboxtext h3 {
     color: #FFF;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -30,4 +31,8 @@ line-height: normal;
 
 .gameboxicon{
     margin-right: 18px;
+}
+.gamebox{
+    margin-top: 15px;
+flex-shrink: 0;
 }

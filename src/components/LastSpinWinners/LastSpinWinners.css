@@ -1,0 +1,52 @@
+
+.lastspinwinnerscontext h3 {
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Koulen;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: -16px;
+}
+.lastspinwinnersconheader {
+    display: flex;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #8053FF 87.5%, #4621B0 100%);
+    padding-left: 26px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    align-items: center;
+}
+.lastspinwinnersconicon {
+    margin-top: 10px;
+}
+.trophyicon{
+    margin-right: 18px;
+}
+.lastspinwinnerscon{
+flex-shrink: 0;
+}
+.lastspinwinnersconcontainer{
+        height: 100%;
+    background: rgba(12, 12, 12, 0.84);
+    backdrop-filter: blur(3px);
+}
+.lastspinwinnersconcontainer table{
+        width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    border-radius: 10px;
+    color: white;
+    margin-top: 14px;
+}
+.lastspinwinnersconcontainer table tr th {
+    background-color: rgb(255 242 242 / 10%);
+    padding: 8px 12px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    text-align: left;
+}
+
+.lastspinwinnersconcontainer table tr td {
+    border: 1px solid white;
+    padding: 10px;
+}

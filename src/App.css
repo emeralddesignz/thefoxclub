@@ -44,3 +44,15 @@ body{
     transform: rotate(360deg);
   }
 }
+
+.gameboxlastspinner{
+  display:flex;
+}
+.lastspinwinnerscon{
+  width: 40%;
+    margin-left: 15px;
+}
+.gameboxcon{
+  width: 60%;
+    margin-right: 15px;
+}
